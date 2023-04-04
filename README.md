@@ -11,4 +11,7 @@
 2. apple
 
 ## heading 2
+This is heading 2 text.
+
 ### heading 3
+This is other text.
